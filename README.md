@@ -1,4 +1,4 @@
-# Dell — Visualização de Dados
+# Universidade Estadual do Ceará UECE e Dell — Visualização de Dados
 
 Repositório destinado ao armazenamento dos **arquivos, exercícios, atividades e trabalhos desenvolvidos durante o curso de Visualização de Dados da Dell**.
 
@@ -30,6 +30,7 @@ Entre elas, podem estar:
 
 
 * Python
+* Pandas
 * Seaborn
 * Matplotlib
 * Outras ferramentas relacionadas à análise e visualização de dados
@@ -38,4 +39,4 @@ Entre elas, podem estar:
 
 **Marcos Ancelmo**
 
-Repositório criado para organização dos estudos e trabalhos realizados no curso **Dell — Visualização de Dados**.
+Repositório criado para organização dos estudos e trabalhos realizados no curso **UECE e Dell — Visualização de Dados**.
